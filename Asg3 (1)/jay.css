@@ -1,0 +1,19 @@
+body{
+    background-image: url('images/stardust.png');
+}
+.header
+{
+    background-color: rgb(151, 71, 71);
+}
+.resp
+{
+    color: aliceblue;
+    margin-left: 40%;
+    margin-right: 40%; 
+}
+.header ul li
+{   padding-top: 0%;
+    margin-left: 40%;
+    margin-right: 40%; 
+    display: inline;
+}
